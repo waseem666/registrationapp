@@ -5,7 +5,7 @@
     <hr>
     <br>
 
-    <label for="emailssss"><b>waseem@.com</b></label>
+    <label for="email"><b>devops is my life, i love devops</b></label>
     <input type="text please put into the box" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
