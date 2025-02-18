@@ -5,7 +5,7 @@
     <hr>
     <br>
 
-    <label for="email"><b>waseem@.com</b></label>
+    <label for="emailssss"><b>waseem@.com</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
